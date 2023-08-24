@@ -1,0 +1,186 @@
+-------------------------------------- INDEX.HTML --------------------------------------
+
+Informática ABC
+Inicio
+Nosotros
+Galería
+Contacto
+Registrate
+Bienvenidos a Informática ABC!
+
+Bienvenidos a Informática ABC! tu destino confiable para soluciones informáticas de primera calidad. Con una pasión arraigada por la innovación y la tecnología, nos enorgullece ofrecer una amplia gama de productos informáticos, hardware y software excepcionales. Desde potentes computadoras diseñadas para satisfacer las demandas más intensas hasta componentes de hardware de vanguardia que impulsarán tu experiencia tecnológica, estamos comprometidos en proporcionarte productos que superen tus expectativas. Nuestro enfoque se basa en la calidad y la excelencia, y cada producto que ofrecemos es cuidadosamente seleccionado para brindarte un rendimiento óptimo y una durabilidad excepcional. Ya sea que busques elevar tus capacidades informáticas o encontrar soluciones que te impulsen hacia el futuro digital, en Informática ABC te acompañamos en cada paso del camino.
+
+En Informática ABC entendemos que la tecnología es más que simples herramientas; es una extensión de tus aspiraciones y una fuente de posibilidades ilimitadas. Nos comprometemos a ser tu socio confiable en este viaje, brindándote no solo productos de primera clase, sino también el conocimiento y la asesoría que necesitas para tomar decisiones informadas. Nuestro equipo apasionado de expertos en tecnología está aquí para guiarte a través de nuestro extenso catálogo, ayudándote a encontrar las soluciones que se adapten perfectamente a tus necesidades. Valoramos cada interacción y nos esforzamos por construir relaciones duraderas con nuestros clientes. Desde entusiastas de la informática hasta profesionales tecnológicos, en Informática ABC estamos comprometidos en proporcionar experiencias excepcionales que te permitan alcanzar tus metas en el mundo digital en constante evolución.
+
+Motivos para elegirnos:
+Amplia gama de productos informáticos de alta calidad.
+Experiencia en el mercado de más de 20 años.
+Servicio de atención al cliente excepcional y personalizado.
+Innovación constante y compromiso con la satisfacción del cliente.
+
+Producto destacado
+
+Notebook Asus 15.6” Intel Celeron 4GB 128GB E510KA-EJ125W
+Procesador Intel Celeron.
+Memoria RAM de 4GB.
+Pantalla LED de 15.6".
+Resolución de 1920x1080 px.
+Placa de video Intel UHD Graphics 600.
+Conexión wifi y bluetooth.
+Ver oferta
+
+logo email logo facebook logo x logo instagram
+🔼
+
+-------------------------------------- NOSOTROS.HTML --------------------------------------
+
+Informática ABC
+Inicio
+Nosotros
+Galería
+Contacto
+Registrate
+
+¿Quiénes somos?
+Desde nuestros humildes comienzos como una empresa familiar hace más de dos décadas, hemos recorrido un emocionante viaje en el mundo de la tecnología. Lo que comenzó como una visión compartida por un pequeño equipo de apasionados de la informática ha evolucionado en una empresa consolidada y respetada en el mercado. A lo largo de estos años, hemos experimentado un crecimiento constante, guiados por nuestro compromiso inquebrantable con la excelencia y la satisfacción del cliente. En cada paso de nuestro camino, hemos invertido en la calidad de nuestros productos y en la formación de nuestro equipo, permitiéndonos adaptarnos y prosperar en un entorno tecnológico en constante cambio. Hoy en día, continuamos manteniendo vivo el espíritu de empresa familiar mientras ofrecemos soluciones informáticas innovadoras y confiables a nuestros valiosos clientes.
+
+Misión
+En Informática ABC, nuestra misión es proporcionar soluciones informáticas de vanguardia que impulsen la productividad y el potencial de nuestros clientes. Nos esforzamos por ser un recurso confiable en el mundo tecnológico, ofreciendo productos de alta calidad respaldados por un servicio excepcional. Buscamos establecer relaciones duraderas con nuestros clientes, brindándoles las herramientas y el conocimiento para triunfar en un entorno digital en constante cambio.
+
+Visión
+Nuestra visión en Informática ABC es ser líderes en la industria tecnológica, reconocidos por nuestra innovación constante y compromiso con la excelencia. Aspiramos a ser la primera opción para individuos y empresas en busca de soluciones informáticas de calidad superior. A medida que avanzamos, nos esforzamos por ampliar nuestro alcance global, impulsados por nuestro deseo de transformar la manera en que las personas interactúan con la tecnología en su día a día.
+
+Valores
+En Informática ABC, nuestros valores fundamentales son la calidad, la integridad y la colaboración. Valoramos la calidad en cada producto y servicio que ofrecemos, asegurándonos de que cumplan con los más altos estándares. La integridad es el corazón de nuestra empresa; nos comprometemos a ser honestos, transparentes y éticos en todas nuestras interacciones. Fomentamos la colaboración tanto dentro de nuestro equipo como con nuestros clientes, reconociendo que juntos logramos resultados superiores. Estos valores guían nuestras acciones y decisiones, formando la base de lo que somos como empresa.
+
+Opiniones
+María González, 32 años:
+"¡Increíble experiencia con Informática ABC! Compré una computadora portátil para mi trabajo y quedé impresionada con la calidad y el rendimiento. El equipo de atención al cliente fue extremadamente amable y me ayudó a elegir la opción perfecta para mis necesidades. Definitivamente, mi primera opción para cualquier producto informático en el futuro."
+
+Juan Pérez, 28 años:
+"No puedo elogiar lo suficiente a Informática ABC. Adquirí un componente de hardware para mi PC y la mejora en el rendimiento fue notable. Además, el proceso de compra fue rápido y sencillo. Los productos son de alta calidad y el equipo detrás de la empresa es muy profesional. ¡Recomendado al 100%!"
+
+Ana Rodríguez, 45 años:
+"Como profesional en el mundo del diseño gráfico, confío en Informática ABC para todas mis necesidades tecnológicas. Su gama de productos es asombrosa y siempre encuentro lo que necesito. La asesoría personalizada que brindan me ha ayudado a tomar decisiones informadas. ¡Gracias a ellos, mi trabajo ha mejorado significativamente!"
+
+logo email logo facebook logo x logo instagram
+🔼
+
+-------------------------------------- PRODUCTOS.HTML --------------------------------------
+
+Informática ABC
+Inicio
+Nosotros
+Galería
+Contacto
+Registrate
+
+Nuestros productos
+
+Motherboard Gigabyte B550 Aorus Pro Ac Am4
+ID: 1
+Precio: $ 356.998
+Stock: 10
+Ver más
+
+Memorias Mushkin Redline 64 Gb (2 X 32 Gb) Ddr4 3200mhz
+ID: 2
+Precio: $ 144.457
+Stock: 5
+Ver más
+
+Microprocesador Amd Ryzen 3 3200g 4.0ghz Am4 Rx Vega Full
+ID: 3
+Precio: $ 109.990
+Stock: 8
+Ver más
+
+Placa de video Nvidia MSI Ventus GeForce RTX 20 Series RTX 2060
+ID: 4
+Precio: $ 263.000
+Stock: 4
+Ver más
+
+Kit de teclado y mouse inalámbrico Logitech MK235 Español-Negro
+ID: 5
+Precio: $ 25.000
+Stock: 15
+Ver más
+
+Impresora Láser Brother HL1212W Wi-Fi color Negro/Blanco 110V/240V
+ID: 6
+Precio: $ 154.639
+Stock: 3
+Ver más
+
+Descargar la lista de precios completa aquí
+
+Consejos para armar una PC GAMER
+VIDEO: https://www.youtube.com/watch?v=qPM-_8EmEe0 
+logo email logo facebook logo x logo instagram
+🔼
+
+-------------------------------------- CONTACTO.HTML --------------------------------------
+Informática ABC
+Inicio
+Nosotros
+Galería
+Contacto
+Registrate
+
+Contactate con nosotros!
+Nombre: * 
+
+Apellido: * 
+
+E-Mail: * 
+juan@example.com
+
+Escriba su consulta:
+Escriba aquí...
+
+Enviar datos | Borrar datos 
+ 
+¿Dónde estamos?
+mapa del obelisco, tamaño pequeño
+
+logo email logo facebook logo x logo instagram
+🔼
+
+-------------------------------------- REGISTRO.HTML --------------------------------------
+
+Informática ABC
+Inicio
+Nosotros
+Galería
+Contacto
+Registrate
+
+Registrate para obtener nuestras novedades!
+Datos personales
+Nombre: * 
+Apellido: * 
+Edad: 
+
+
+Fecha de nacimiento: 
+dd/mm/aaaa
+ Lugar de residencia: 
+Capital Federal / Gran Buenos Aires / Interior del país
+* Campos obligatorios
+
+Datos de contacto e intereses:
+E-Mail: * 
+juan@example.com
+ Celular: * 
+
+Tengo interés en: Computadoras de escritorio | Laptops | Periféricos | Software
+¿Qué consideras más importante a la hora de comprar?:
+ Calidad de los productos | Atención al cliente | Variedad de productos | Precios competitivos
+* Campos obligatorios
+
+ Acepto recibir ofertas a través del correo electrónico y/o celular
+
+Enviar datos | Borrar datos 
+logo email logo facebook logo x logo instagram
+🔼
